@@ -60,6 +60,8 @@
 .cfignore
 .checkstyle
 .circleci/config.yml
+.circleci/.firebase.secrets.json.enc
+.circleci/.firebase.secrets.json
 .classpath
 .cobalt
 .codeclimate.yml
